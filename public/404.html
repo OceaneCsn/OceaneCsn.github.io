@@ -27,7 +27,7 @@
   
     
   
-  <meta name="description" content="PhD student in bioinformatics">
+  <meta name="description" content="PhD student in biostatistics and computer science applied to gene regulation">
 
   
   <link rel="alternate" hreflang="en-us" href="/404.html">
@@ -239,7 +239,7 @@
   <meta property="og:site_name" content="Océane Cassan">
   <meta property="og:url" content="/404.html">
   <meta property="og:title" content="404 Page not found | Océane Cassan">
-  <meta property="og:description" content="PhD student in bioinformatics"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="PhD student in biostatistics and computer science applied to gene regulation"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
@@ -279,7 +279,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -378,16 +379,31 @@
         
         
         
-          
-          
-          
-            
-          
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
           
         
 
+        
+        
+        
+        
+        
+        
+
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/talk/"><span>Talks</span></a>
         </li>
 
         
@@ -415,6 +431,28 @@
         
         
 
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
       
 
         
@@ -422,6 +460,10 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
       
 
       
@@ -457,6 +499,10 @@
 
   
   
+  <form class="d-flex align-items-center mb-3">
+    <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  </form>
+  
 
   
 
@@ -468,25 +514,25 @@
   <h2>Latest</h2>
   <ul>
     
-      <li><a href="/courses/example/example1/">Example Page 1</a></li>
+      <li><a href="/talk/jobim_poster/">Poster - JOBIM</a></li>
     
-      <li><a href="/courses/example/example2/">Example Page 2</a></li>
+      <li><a href="/publication/diane/">Inferring and analyzing gene regulatory networks from multi-factorial expression data: a complete and interactive suite</a></li>
     
-      <li><a href="/talk/example/">Example Talk</a></li>
+      <li><a href="/talk/ipsb_poster/">Poster - International Plant System Biology workshop</a></li>
+    
+      <li><a href="/talk/netbio/">Talk - Netbio</a></li>
+    
+      <li><a href="/project/diane/">DIANE</a></li>
     
       <li><a href="/post/writing-technical-content/">Writing technical content in Academic</a></li>
     
-      <li><a href="/post/jupyter/">Display Jupyter Notebooks with Academic</a></li>
+      <li><a href="/project/m2/">Master internship project : Statistical learning for the prediction of chromosomic interactions</a></li>
     
-      <li><a href="/slides/example/">Slides</a></li>
-    
-      <li><a href="/publication/journal-article/">Probing transcription factor combinatorics in different promoter classes and in enhancers</a></li>
+      <li><a href="/publication/tfcoop/">Probing transcription factor combinatorics in different promoter classes and in enhancers</a></li>
     
       <li><a href="/project/internal-project/">Internal Project</a></li>
     
       <li><a href="/post/getting-started/">Academic: the website builder for Hugo</a></li>
-    
-      <li><a href="/post/2015-07-23-r-rmarkdown/">Hello R Markdown</a></li>
     
   </ul>
   
@@ -531,11 +577,47 @@
     
 
     
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
@@ -548,7 +630,6 @@
 
     
     
-
     
     
     
@@ -556,12 +637,12 @@
     
     
     
+      
     
     
     
     
-    
-    <script src="/js/academic.min.cbb55fd8eafa574bce72dcb94f65cd2c.js"></script>
+    <script src="/js/academic.min.0c363bb51e9ffe0a9411e3a175081dd9.js"></script>
 
     
 

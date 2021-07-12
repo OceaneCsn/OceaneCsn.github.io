@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Inferring and analyzing gene regulatory networks from multi-factorial expression data: a complete and interactive suite</title>
+      <link>/publication/diane/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/diane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Probing transcription factor combinatorics in different promoter classes and in enhancers</title>
-      <link>/publication/journal-article/</link>
+      <link>/publication/tfcoop/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
+      <guid>/publication/tfcoop/</guid>
       <description></description>
     </item>
     

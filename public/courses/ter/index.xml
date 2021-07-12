@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supervision of a TER project on GWAS models | Océane Cassan</title>
+    <link>/courses/ter/</link>
+      <atom:link href="/courses/ter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Supervision of a TER project on GWAS models</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/courses/ter/featured.png</url>
+      <title>Supervision of a TER project on GWAS models</title>
+      <link>/courses/ter/</link>
+    </image>
+    
+  </channel>
+</rss>
