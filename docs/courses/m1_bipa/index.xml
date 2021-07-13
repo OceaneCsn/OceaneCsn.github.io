@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical approaches to reconstruct gene regulatory networks | Océane Cassan</title>
+    <link>/courses/m1_bipa/</link>
+      <atom:link href="/courses/m1_bipa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistical approaches to reconstruct gene regulatory networks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/courses/m1_bipa/featured.png</url>
+      <title>Statistical approaches to reconstruct gene regulatory networks</title>
+      <link>/courses/m1_bipa/</link>
+    </image>
+    
+  </channel>
+</rss>
