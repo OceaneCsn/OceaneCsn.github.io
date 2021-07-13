@@ -2,6 +2,7 @@
 date: "2021-09-01"
 draft: false
 lastmod: "2021-09-01"
+linktitle: Bipa
 summary: M1, Bipa - University of Montpellier
 title: Statistical approaches to reconstruct gene regulatory networks
 weight: 1
