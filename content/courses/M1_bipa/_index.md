@@ -3,8 +3,8 @@ date: "2020-09-01"
 draft: false
 lastmod: "2021-09-01"
 linktitle: Statistical approaches to reconstruct gene regulatory networks
-summary: M1,, Bipa - University of Montpellier
-title: Bipa
+summary: M1, Bipa - University of Montpellier
+title: Statistical approaches to reconstruct gene regulatory networks
 weight: 1
 ---
 
