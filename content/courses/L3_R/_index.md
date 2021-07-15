@@ -11,4 +11,3 @@ weight: 1
 L3, Plant biology for agrology and the environment - University of Montpellier. Assisting the practical sessions of the introduction to R for the visualization and analysis of biological data (mostly with the Tidyverse).
 
 
-
