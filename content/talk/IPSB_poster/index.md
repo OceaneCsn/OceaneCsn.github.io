@@ -10,7 +10,7 @@ image:
   caption: 'Image credit: [**IPSB**](https://meetings.embo.org/event/20-plant-systems)'
   focal_point: Right
 math: true
-summary: Presentation of the Dashboard for the Inference and Analysis of Networks from Expression data (DIANE)
+summary: Statistical inference of a gene regulatory network in Arabidopsis under the combination of climate change and nutritional starvations
 tags: []
 title: Poster - International Plant System Biology workshop
 url_pdf: files/poster_iPSB_Cassan_Oceane.pdf
