@@ -6,7 +6,7 @@ linktitle: MIASHS
 summary: M1, MIASHS - University Paul Valéry Montpellier
 title: Introduction to RStudio and Rmarkdown
 weight: 1
-url_slides: "files/TPTDRStudio.html"
+url_slides: "files/MIASHS.html"
 url_dataset: "files/burghardt_et_al_2015_expt1.csv"
 url_code: "https://github.com/OceaneCsn/M1_Rmarkdown_course"
 ---
