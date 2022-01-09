@@ -12,10 +12,9 @@ education:
     year: 2019
 email: ""
 interests:
-- Data science and predictive modelling
+- Predictive biology, systems biology
 - Statistics
-- Plant biology
-- Gene regulatory networks
+- Plant biology and gene regulation
 
 
 organizations:
@@ -41,6 +40,7 @@ title: Océane Cassan
 user_groups:
 - Researchers
 - Visitors
+math: true
 ---
 
-I am a PhD Student in bioinformatics and biostatistics in the Biochemistry & Plant Molecular Physiology unit, Montpellier. I apply statistics and machine learning to genomic data to understand plants response to climate change. In particular, I am interested in reconstructing the regulatory pathways in Arabidpsis thaliana under high atmospheric CO2 to explain the depletion of its mineral status.
+I am a PhD Student in bioinformatics and biostatistics in the Biochemistry & Plant Molecular Physiology unit, Montpellier. I apply statistics and machine learning to genomic data to understand plants response to climate change. In particular, I am interested in reconstructing the regulatory pathways in *Arabidopsis thaliana* under high atmospheric CO$_2$ to explain the depletion of its mineral status.

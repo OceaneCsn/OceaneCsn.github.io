@@ -30,7 +30,7 @@ subtitle = ""
   icon = "seedling"
   icon_pack = "fas"
   name = "Plant biolgy"
-  description = "Plant biology, Gene Regulation, Regulatory Networks"
+  description = "Systems biology, Gene Regulatory Networks, quantitative biology"
 
 # Uncomment to use emoji icons.
 # [[feature]]
