@@ -18,7 +18,7 @@ interests:
 
 
 organizations:
-- name: BPMP team, Supagro Montpellier
+- name: Institute for Plant Science of Montpellier, SIRENE team
   url: https://www1.montpellier.inra.fr/wp-inra/bpmp/en/
 role: PhD student in biostatistics and computer science applied to gene regulation
 social:
@@ -43,4 +43,4 @@ user_groups:
 math: true
 ---
 
-I am a PhD Student in bioinformatics and biostatistics in the Biochemistry & Plant Molecular Physiology unit, Montpellier. I apply statistics and machine learning to genomic data to understand plants response to climate change. In particular, I am interested in reconstructing the regulatory pathways in *Arabidopsis thaliana* under high atmospheric CO$_2$ to explain the depletion of its mineral status.
+I am a PhD Student in bioinformatics and biostatistics in the Institute for Plant Science of Montpellier, France. I apply statistics and machine learning to genomic data to understand plants response to climate change. In particular, I am interested in reconstructing the regulatory pathways in *Arabidopsis thaliana* under high atmospheric CO2 concentration to explain the depletion of its mineral status.
