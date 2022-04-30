@@ -9,7 +9,7 @@ featured: true
 math: true
 summary: Discussing Reconciling modern machine-learning practice and the classical bias–variance trade-off, Belkin et al, 2019.
 tags: []
-title: Talk - Montpellier
+title: Talk - Montpellier Machine learning group
 url_slides: https://groupes.renater.fr/wiki/ml-mtp/_media/wiki/double_descent.pdf
 ---
 
