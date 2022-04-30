@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ml-mtp/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url>
@@ -13,17 +28,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/jobim_poster/</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url>
   
