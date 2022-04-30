@@ -4,11 +4,14 @@ authors:
 bio: PhD student in biostatistics and computational biology
 education:
   courses:
+  - course: PhD in biostatistics for gene regulation - Integrative Biology, Diversity and Plant Improvement departmen
+    institution: University of Montpellier, France
+    year: defense planned for decemebr, 2022
   - course: MSc in Computer Science - Artificial Intelligence
-    institution: Université Claude Bernard Lyon I
+    institution: Université Claude Bernard Lyon I, France
     year: 2019
   - course: Engineering degree in Bioinformatics and Modelling
-    institution: National Institute of Applied Sciences (INSA) Lyon
+    institution: National Institute of Applied Sciences (INSA) Lyon, France
     year: 2019
 email: ""
 interests:
