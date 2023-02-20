@@ -5,12 +5,36 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Océane Cassan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Océane Cassan</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>A gene regulatory network in Arabidopsis roots reveals features and regulators of the plant response to elevated CO2</title>
+      <link>/publication/co2_grn/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/co2_grn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The decline of plant mineral nutrition under rising CO2: physiological and molecular aspects of a bad deal</title>
+      <link>/publication/review_tips/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/review_tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organisation of the workshop on plants and climate change</title>
+      <link>/project/climate_change/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/project/climate_change/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Talk - Montpellier Machine learning group</title>

@@ -3,8 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/co2_grn/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alain-gojon/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/antoine-martin/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/christian-dubos/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lien-bach/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lea-lou-pimpare/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/oceane-cassan/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sophie-lebre/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/laurence-lejay/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/review_tips/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/climate_change/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,11 +108,6 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/oceane-cassan/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url>
@@ -33,47 +118,7 @@
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/antoine-martin/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/diane/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/oceane-cassan/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/sophie-lebre/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,11 +139,6 @@
   
   <url>
     <loc>/tag/diane-r-package/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   

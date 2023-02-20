@@ -1,12 +1,12 @@
 ---
 authors:
 - admin
-bio: PhD student in biostatistics and computational biology
+bio: Postdoc researcher in statistical learning and computational biology
 education:
   courses:
-  - course: PhD in biostatistics for gene regulation - Integrative Biology, Diversity and Plant Improvement departmen
+  - course: PhD in biostatistics for gene regulation - Integrative Biology, Diversity and Plant Improvement
     institution: University of Montpellier, France
-    year: defense planned for decemebr, 2022
+    year: 2022
   - course: MSc in Computer Science - Artificial Intelligence
     institution: Université Claude Bernard Lyon I, France
     year: 2019
@@ -16,14 +16,14 @@ education:
 email: ""
 interests:
 - Predictive biology, systems biology
-- Statistics
-- Plant biology and gene regulation
+- Statistical learning
+- Gene regulation
 
 
 organizations:
-- name: Institute for Plant Science of Montpellier, SIRENE team
-  url: https://www1.montpellier.inra.fr/wp-inra/bpmp/en/
-role: PhD student in biostatistics and computer science applied to gene regulation
+- name: LIRMM - Laboratory of Computer Science, Robotics and Microelectronics of Montpellier 
+  url: https://www.lirmm.fr/lirmm-en/
+role: Postdoc researcher in statistical learning applied to gene regulation
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,4 +46,4 @@ user_groups:
 math: true
 ---
 
-I am a PhD Student in bioinformatics and biostatistics in the Institute for Plant Science of Montpellier, France. I apply statistics and machine learning to genomic data to understand plants response to climate change. In particular, I am interested in reconstructing the regulatory pathways in *Arabidopsis thaliana* under high atmospheric CO2 concentration to explain the depletion of its mineral status.
+I am a postdoc researcher using and developping statistical learning methods to extract knowledge from large biological datasets and decipher the mechanisms behind gene regulation. I completed my PhD in bioinformatics and biostatistics in the Institute for Plant Science of Montpellier, France, where I applied machine learning to genomic data to understand plants responses to climate change. In particular, I modelled the gene regulatory networks in *Arabidopsis thaliana* under high atmospheric CO2 concentration using regression frameworks in high dimensional settings.
