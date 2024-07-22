@@ -46,4 +46,4 @@ user_groups:
 math: true
 ---
 
-I am a postdoc researcher using and developping statistical learning methods to extract knowledge from large biological datasets and decipher the mechanisms behind gene regulation. I completed my PhD in bioinformatics and biostatistics in the Institute for Plant Science of Montpellier, France, where I applied machine learning to genomic data to understand plants responses to climate change. In particular, I modelled the gene regulatory networks in *Arabidopsis thaliana* under high atmospheric CO2 concentration using regression frameworks in high dimensional settings.
+I am a postdoc researcher using and developping statistical learning methods to extract knowledge from large biological datasets and decipher the mechanisms of gene regulation. I completed my PhD in bioinformatics and biostatistics in the Institute for Plant Science of Montpellier, France, where I applied machine learning to genomic data to understand plants responses to climate change. In particular, I modelled the gene regulatory networks in *Arabidopsis thaliana* under high atmospheric CO2 concentration using regression frameworks in high dimensional settings.
